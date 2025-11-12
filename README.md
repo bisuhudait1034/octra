@@ -1,5 +1,5 @@
 <h1> <p style="color: blue;">Octra</p> : Revolutionizing Data Privacy with Fully Homomorphic Encryption and Blockchain TechnologyBy Lithium Digital,</h1>
-
+<span style="color: #FF0000;">This text will be red.</span>
 
 an era where data breaches and surveillance are everyday headlines, the need for robust privacy solutions has never been more urgent. Enter Octra, a groundbreaking Layer 1 blockchain project that's redefining secure computation through Fully Homomorphic Encryption (FHE). Octra isn't just another crypto network—it's a privacy-first infrastructure designed to enable encrypted data processing without ever exposing sensitive information, paving the way for trustless applications in DeFi, AI, healthcare, and beyond.
 
